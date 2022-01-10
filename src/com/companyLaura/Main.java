@@ -12,8 +12,8 @@ public class Main {
         for (int m = 0; m < 10; m++) {
             System.out.print("*");
         }
-        System.out.println("");
-        System.out.println("");
+        System.out.println();
+        System.out.println();
 
         //4 RINDAS AR 10 ZVAIGZNĒM KATRĀ RINDĀ
 
@@ -24,7 +24,7 @@ public class Main {
             a++;
         }
         while (a < 4);
-        System.out.println("");
+        System.out.println();
 
         //EGLES KREISĀ PUSE
 
@@ -44,7 +44,7 @@ public class Main {
                 System.out.println("*****");
             break;
         }
-        System.out.println("");
+        System.out.println();
 
         // EGLES LABĀ PUSE
 
@@ -64,7 +64,7 @@ public class Main {
                 System.out.println("*****");
                 break;
         }
-        System.out.println("");
+        System.out.println();
 
         // AK EGLĪTE, AK EGLĪTE
 
